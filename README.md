@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MOFFROUGH a.k.a Moffat
-- I am a seasoned Laravel and Vue Developer
+- 👋 Hi, I am Moffat Munene
+- I am a experienced in building Laravel and Vue Apps
 - 👀 I’m interested in Building scalable, maintainable and awesome frontends and APIs.
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently using React and React Native ecosystems
 - 💞️ I’m looking to collaborate on anything interesting
 
 <!---
